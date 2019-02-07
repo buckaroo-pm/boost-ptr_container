@@ -1,4 +1,4 @@
-manifest = "688a1e65b2f35db0a97c6684e5396b7ca2470ba8fe58e01950ca4f9698984e5d"
+manifest = "fbcdc6ce45856094c41f3187fe9ae77c9733d51f27f79a2e69300a2f1a6b07f8"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-array"
@@ -163,10 +163,6 @@ revision = "3951e0ca1d6b909bbc815858acbe2449c4a53eed"
 [lock."github.com/buckaroo-pm/boost-tuple"]
 versions = [ "branch=master" ]
 revision = "5548bd44b949ccd04331c4fb25b0bb3c9b0db0d8"
-
-[lock."github.com/buckaroo-pm/boost-tuple"]
-versions = [ "branch=master" ]
-revision = "5ffb0abec6da0d9986690b32d20218769a50086b"
 
 [lock."github.com/buckaroo-pm/boost-type_index"]
 versions = [ "branch=master" ]
