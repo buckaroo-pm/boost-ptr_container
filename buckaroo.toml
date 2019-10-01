@@ -1,0 +1,61 @@
+targets = [ "//:ptr_container" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-unordered"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-array"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-serialization"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-circular_buffer"
+version = "1.55.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.55.0"
